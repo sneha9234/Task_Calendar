@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task Calendar</string>
+    <string name="continue_">Continue</string>
+    <string name="view_tasks">View Tasks</string>
+    <string name="or">or</string>
+    <string name="no_tasks_found">No tasks found</string>
+</resources>
